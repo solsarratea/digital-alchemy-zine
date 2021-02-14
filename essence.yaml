@@ -1,0 +1,12 @@
+title: "Digital Alchemy"
+subtitle: Transmutating data
+description: Content for course
+published: 
+collections:
+  - technology
+  - course
+aesthetic:
+  colour:
+    background: hsl(60, 70%, 94%);
+    text: hsl(60, 50.0%, 10.0%);
+    accent: lime; # accent is also used as book cover on front page

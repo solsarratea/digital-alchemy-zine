@@ -1,0 +1,252 @@
+/*
+Default styles for a default workpiece
+If i don't know what something shoudl look like,
+it should look like this! */
+
+body {
+    background: var(--colour_bg);
+    font-family: monospace;
+    font-size: var(--point-size);
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+.invisible {
+    opacity: 0;
+}
+
+main {
+    margin: auto;
+    max-width: 900px;
+    margin-bottom: 3rem;
+    position: relative;
+    padding: 1.5rem;
+}
+code {
+    font-family: var(--mono);
+    font-size: 0.9em;
+    background: white;
+}
+h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 2rem;
+    overflow: hidden;
+}
+
+main p {
+    max-width: var(--line-length);
+    margin: auto;
+    line-height: var(--line-spacing);
+    text-align: justify;
+    margin-bottom: var(--point-size);
+    hyphens: auto;
+}
+@media (max-width: 667px) {
+    main p {
+        text-align: left;
+        hyphens: none;
+    }
+}
+
+main h2 {
+    display: block;
+    max-width: calc(var(--line-length) / 3);
+    padding-top: 0.5rem;
+    margin: auto;
+    font-size: 1.5rem;
+    margin-left: 3.5em;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    border-top: 2px solid red;
+}
+
+main nav {
+    margin-top: 3rem;
+}
+
+main nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    flex-wrap: wrap;
+}
+
+main nav li {
+    list-style-type: none;
+    min-width: 100px;
+}
+
+main nav a {
+    text-decoration: none;
+    color: lime;
+}
+
+main a {
+    text-decoration: none;
+    outline: none;
+    color: lime;
+}
+
+a.toc {
+    display: block;
+    width: 100px;
+    margin-top: 4em;
+    transition: transform .2s;   
+}
+
+a.toc:hover {
+    transform: scale(1.8);
+}
+
+a.tag {
+    background: var(--colour_accent);
+    color: var(--colour_bg);
+    transition: transform .2s;
+}
+
+a.tag:hover {
+    background: var(--colour_body);
+    color: var(--colour_accent);
+}
+
+a.tag code {
+    background: none;
+}
+
+@media (max-width: 667px) {
+    li.toc {
+        width: 100%;
+        order: 3;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1.5rem;
+    }
+}
+
+
+
+footer {
+    margin-top: 12rem;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.rainbow {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background: white;
+    background-image: none;
+    border-radius:4px;
+    background-color: red;
+    background-image:
+        linear-gradient(
+            to right,
+            red,
+            magenta,
+            cyan,
+            lime
+        );
+}
+
+
+.rainbow div.paper {
+    color: black;
+    background: hsl(0, 0%, 90%);
+    padding: 1.5rem;
+    width: 100%;
+    margin: 0;
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+.rainbow div.paper a {
+    text-decoration: none;
+    color: red;
+
+}
+
+
+footer p {
+    margin: 0;
+}
+
+ul.table-of-contents {
+    max-width: var(--line-length);
+    font-weight: 200;
+    padding: 0;
+    margin: auto;
+    font-size: 1em;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.table-of-contents li {
+    margin-bottom: 0.5rem;
+    list-style-type: none;
+    font-weight: 200;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: url('../assets/dot.svg');
+}
+
+ul.table-of-contents a {
+    text-decoration: none;
+    opacity: 0.9;
+    background: var(--colour_bg);
+}
+
+section.source {
+    max-width: var(--line-length);
+    margin: auto;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+section.source div.paper {
+    background: var(--colour_body);
+    color: var(--colour_bg);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+section.source pre {
+    background: unset;
+    font-size: 0.7em;
+    letter-spacing: 0.05rem;
+    overflow-x: scroll;
+}
+
+figure.rendered {
+    max-width: var(--line-length);
+    margin: 2em auto 2em auto;
+}
+
+figure.rendered img {
+    width: 100%;
+    border: 1px solid #323234;
+    border-radius: 4px;
+}
+.ver {
+    color: lime;
+}
+.cross {
+    text-decoration: line-through;
+}
