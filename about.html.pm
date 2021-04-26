@@ -2,10 +2,10 @@
 
 ◊define-meta[title]{ about this space }
 
-This ◊b{place} would become our alive wiki thoughout the course.
+This ◊b{is our alive wiki} created from ideas after discussions thoughout ◊i{◊b{Cohort 0 of `Digital Alchemy`}}
 
-So.. what about  ◊i{◊b{the course}}?
 
+◊section{About the course}
 It is a series of  experimental workshops for understanding low level representation of information without requiring a formal computer-science background.
 
 ◊b{WHY?}

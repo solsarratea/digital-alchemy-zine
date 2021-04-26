@@ -10,4 +10,21 @@
     --point-size: 24px;
     --line-spacing: 138%;
     --line-length: 28em;
+
+    --blue-c1: #4895EF;
+    --blue-c2: #7209B7;
+    --blue-c3: #480CA8;
+    --blue-c4: #3F37C9;
+    --blue-c5: #4895EF;
+    --blue-c6: #4CC9F0;
+    --blue-c7: #0000f4;
+
+    --red-c1: #e9190f;
+    --red-c2: #fff900;
+    --red-c3: #f80C08;
+    --red-c4: #f43408;
+    --red-c5: #fe4e00;
+    --red-c6: #ff0000;
+    --red-c7: #ea1744;
+
 }

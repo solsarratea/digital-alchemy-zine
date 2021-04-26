@@ -137,3 +137,12 @@
                                            #:string-proc (compose1 smart-quotes smart-dashes))))
 
 (provide (all-defined-out))
+
+(define items (default-tag-function 'div 'ul))
+(define item (default-tag-function 'li 'p))
+(define (link url text) `(a ((href ,url)) ,text))
+(define section (default-tag-function 'h2))
+(define cartelera (default-tag-function 'marquee))
+(define cartelera-texto (default-tag-function 'span))
+
+(define container (default-tag-function 'div))

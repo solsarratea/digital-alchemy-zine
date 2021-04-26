@@ -5,7 +5,7 @@
 
 ◊span[#:class "ver"]{Digital} Alchemy is an  ◊span[#:class "cross"]{ancient} ◊span[#:class "ver"]{modern}  metaphysical science | mystical art of manipulating and altering ◊span[#:class "cross"]{matter} ◊span[#:class "ver"]{bits} by using ◊span[#:class "cross"]{natural energy} ◊span[#:class "ver"]{algorithms, parsers and file formats}.
 
-This act is known as ◊b{Transmutation}  and its sequence is usually described as:
+This act is known as ◊b{Transmutation}  its described as:
 
 ◊b{Comprehension} - Understanding the inherent structure and properties of the atomic or molecular makeup of a particular  ◊span[#:class "cross"]{material} ◊span[#:class "ver"]{data representation} to be transmuted, including the flow and balance of ◊span[#:class "cross"]{ potential and kinetic energy} ◊span[#:class "ver"]{compression algorithms, encoders and specifications} within.
 
