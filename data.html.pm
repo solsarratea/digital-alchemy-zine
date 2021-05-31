@@ -3,7 +3,7 @@
 ◊define-meta[title]{ START : defining DATA }
 
 
-◊fig[#:class "mirror" #:alt "data structure"]{data.png}
+◊fig[#:class "mirror" #:alt "data structure 1" #:caption "from Computer Lib-Dream Machines by Ted Nelson" ]{data.png}
 
 
 ◊section{ WHAT IS IT?}
@@ -34,4 +34,4 @@
 
                         }
 
-◊fig[#:class "mirror" #:alt "data structure"]{data-structure.png}
+◊fig[#:class "mirror" #:alt "data structure 2" #:caption "from Computer Lib-Dream Machines by Ted Nelson" ]{data-structure.png}

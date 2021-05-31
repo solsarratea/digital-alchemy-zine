@@ -48,10 +48,8 @@
     </main>
     <footer class="rainbow">
       <div class="paper">
-        <p> This is “◊|title|: ◊|subtitle|”</p>
-
-        <p>course given at <a href="https://hyperlink.academy">hyperlink.academy</a> | facilitated by  <a href="https://solquemal.com">sol sarratea</a></p>
-        <p>⚡ ⚡ cool web-zine template was made in pollen by <a href="https://coolguy.website">coolguy</a></p>
+        <p> Virtual space for discussions of <a href="https://hyperlink.academy/courses/digital-alchemy/89" > ◊|title|: </a> course given at <a href="https://hyperlink.academy">hyperlink.academy</a> | facilitated by  <a href="https://solquemal.com">sol sarratea</a></p>
+        <p>⚡ ⚡ cool web-zine template was made in <a href="https://docs.racket-lang.org/pollen/"> pollen</a> by <a href="https://coolguy.website">coolguy</a></p>
         <a href="/">back 🏠</a>
       </div>
     </footer>

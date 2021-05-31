@@ -69,3 +69,21 @@ Our expectations about what ◊span[#:class "ver"]{we can do with it.}
         .hs
     }
 }
+
+◊section{ GRAPHIC FILES }
+
+
+From BITMAPS
+
+◊container[#:class "compression" ]{
+◊fig[#:class "rendered comp" #:alt "bitmap" ]{smiley01.png}
+◊fig[#:class "rendered comp" #:alt "bitmap" ]{smiley.jpeg}
+}
+
+to exploring layers of JPEG compression algorithm
+
+◊container[#:class "compression" ]{
+◊fig[#:class "rendered comp" #:alt "jpeg compression"   ]{jpeg-compression.png}
+◊fig[#:class "rendered comp" #:alt "jpeg compression 1" ]{jpeg-compression-2.png}
+◊fig[#:class "rendered comp" #:alt "jpeg compression 2" ]{jpeg-compression-3.png}
+}

@@ -1,9 +1,6 @@
 #lang pollen
 ◊define-meta[title]{ collaborators }
 
-
-◊container[#:class "con"]{
-
 ◊p[#:class "bblack"]{
 
 April 2021
@@ -12,6 +9,9 @@ April 2021
 ◊b[#:class "bblack"]{
 Special thanks to all Digital Alchemists :
 }
+
+◊container[#:class "con"]{
+
 ◊h3[#:class "mid"]{Rory}
 
 ◊h3[#:class " mid"]{Joel}
@@ -35,12 +35,6 @@ Special thanks to all Digital Alchemists :
 ◊h3[#:class " mid"]{Karl}
 
 ◊h3[#:class " mid"]{Alexia}
-
-◊p[#:class "bblack"]{
-
-Backgound image is from ◊a[#:href "http://danielmartindiaz.com/"]{Daniel Martinez Diaz}.
-
-}
 
 }
 

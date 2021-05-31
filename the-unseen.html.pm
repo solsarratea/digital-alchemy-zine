@@ -32,7 +32,9 @@ I think of it as  ◊b[#:class "shadow big"]{layers}; so there are seen layers a
 What tools can we use to help us percieve? we are able to percieve more and more as time goes on.
 }
 
-◊fig[#:class "rendered" #:alt "piet-haiku"]{bark.png}
+◊fig[#:class "rendered" #:alt "piet-haiku" #:caption "This is a program written in Piet by Daniel Holden, which prints a Haiku." ]{bark.png}
+
+Read full article: ◊a[#:href"http://theorangeduck.com/page/making-poetry-piet" ]{Making Poetry in Piet}
 
 
 ◊section{INNER STRUCTURE OF DATA}
@@ -45,13 +47,13 @@ e.g. translating across languages, now translating between text/image/sound via 
 
 ◊b[#:class "shadow big blue"]{some schema}
 
-◊fig[#:class "rendered" ]{bmp-view.png}
+◊fig[#:class "rendered" #:caption "2D viualization of .bmp file using VELES"]{bmp-view.png}
 
 ◊b[#:class "shadow2 big ver"]{ headers}
 
 ◊b[#:class "shadow mid blue"]{man-made stuff}
 
-◊fig[#:class "rendered" ]{esquizo-view.gif}
+◊fig[#:class "rendered" #:caption "3D visualization of polyglot file using VELES"]{esquizo-view.gif}
 
 
  ◊b[#:class "shadow2 mid cyan"]{states: either particles or waves} probabilities, odds with degrees of noise based on uncertainty. It's temporal-spatial (particularly for quantum)

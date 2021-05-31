@@ -101,30 +101,29 @@
 
 recreating ◊b{Synthesizers }
 
-
 Does playing a karaoke version of a song on youtube and singing on top of it count as synthesizing analog and digital sounds? lol
 
 
 ◊b{◊span[#:class "glow "]{ Processing, Programming, Creating.}}
 
 
-
 ◊b[#:class "mid" ]{Bringing things together.}
-
 
 
 I definitely only really think of music. I don't jump to other forms of media when hearing this, ◊b{◊span[#:class "shadow2 mid"]{ but when you relate it to digital matter, then i stop thinking of music and think of waves.}}
 
-                                                                                                                                                                We saw in the first session how waves, or   ◊b{◊span[#:class " shadow2 mid blue"]{ frequencies }}  can be applied to more than sound, with the JPEG compression stuff.
+We saw in the first session how waves, or   ◊b{◊span[#:class " shadow2 mid blue"]{ frequencies }}  can be applied to more than sound, with the JPEG compression stuff.
 
 
 
 
-                                                                                                                                                                ◊b{◊span[#:class "big cyan"]{Combining.}}
+◊b{◊span[#:class "big cyan"]{Combining.}}
 
 
 
 My first thought with the word synthesis is sound, the act of synthesizing sound
 putting things together maybe sound and image? 
 
-                                                                                                                                                                ◊b{◊span[#:class " mid"]{ Modular}}
+◊b{◊span[#:class " mid"]{ Modular}}
+
+◊fig[#:class "rendered" #:caption "SSTV image decoder"]{ss.gif}
