@@ -4,13 +4,23 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta property="og:title" content="Digital Alchemy Zine">
+        <meta property="og:image" content="aesthetic/assets/social-media.gif">
+        <link rel="image_src" href="aesthetic/assets/social-media.gif">
+        <meta name="description" content="Chronicles of `Digital Alchemy Course` at hyperlink.academy">
+        <meta property="og:description" content="Chronicles of `Digital Alchemy Course` at hyperlink.academy">
+        <meta name="author" content="solsarratea">
+
+         <!--Twitter config-->
+        <meta name="twitter:title"  content="Digital Alchemy Zine">
+        <meta name="twitter:description" content="Chronicles of `Digital Alchemy Course` at hyperlink.academy">
+        <meta name="twitter:image"  content="aesthetic/assets/social-media.gif">
+        <meta name="twitter:card" content="summary_large_image">
+
     <title>◊|title|: ◊|subtitle|</title>
     <meta name="description" content="◊|description|">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
-    <link rel='stylesheet' href='https://coolguy.website/aesthetic/fonts/fivo-sans/font.css' type='text/css'>
-    <link rel='stylesheet' href='https://coolguy.website/aesthetic/fonts/charter/font.css' type='text/css'>
-    <!-- <link rel='stylesheet' href='https://coolguy.website/aesthetic/stylesheets/soil.css' type='text/css'> -->
     <link rel='stylesheet' href='aesthetic/stylesheets/variables.css' type='text/css'>
     <link rel='stylesheet' href='aesthetic/stylesheets/work.css' type='text/css'>
   </head>
