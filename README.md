@@ -1,4 +1,4 @@
-# Digital Alchemy 
+# Digital Alchemy TEMPLATE
 
 Web zine register for course on `hyperlink.academy`
 
